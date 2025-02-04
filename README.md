@@ -15,15 +15,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **more about Gen AI**
 
-- 👨‍💻 All of my projects are available at [https://prakash-mihir.github.io/mp/](https://prakash-mihir.github.io/mp/)
+- 👨‍💻 All of my projects are available at [https://mihir-prakash.onrender.com/]([https://prakash-mihir.github.io/mp/](https://mihir-prakash.onrender.com/))
 
-- 💬 Ask me about **MERN, Algorithms**
+- 💬 Ask me about **Full Stack Development, Algorithms, System Design**
 
 - 📫 How to reach me **mihir.prakash@rice.edu**
 
-- ⚡ Fun fact **I can blow your mind with crazy card tricks**
+- ⚡ Fun fact **: I can blow your mind with crazy card tricks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
